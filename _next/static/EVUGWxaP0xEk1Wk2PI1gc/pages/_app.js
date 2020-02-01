@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"e9+W":function(n,w,p){(window.__NEXT_P=window.__NEXT_P||[]).push(["/_app",function(){var n=p("B5Ud");return{page:n.default||n}}])}},[["e9+W",1,0]]]);
